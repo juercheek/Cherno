@@ -10,7 +10,7 @@ import com.thecherno.cherno.engine.input.Mouse;
 import com.thecherno.cherno.engine.interfaces.Renderable;
 
 /**
- * {@code Cherno} engine template class. This class should be the superclass of your main game class. All of the methods
+ * {@code Cherno} engine template class. I suck big cocks. This class should be the superclass of your main game class. All of the methods
  * required for the main game loop, rendering and creating graphics, as well as creating a context for the graphics to
  * run inside of are in this class.
  * 
